@@ -41,6 +41,7 @@
       "type":"Creature",
       "cost":2,
       "text":"Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)\nThis creature can't attack players.",
+      "flavor": null,
       "illustrator":"Daisuke Izuka",
       "race":"Starlight Tree",
       "power":"3000",
@@ -85,7 +86,10 @@
       "type":"Spell",
       "cost":6,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nTap all your opponent's creatures in the battle zone.",
+      "flavor": null,
       "illustrator":"Naoki Saito",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/c/cb/HolyAwe.jpg/revision/latest?cb=20120221011434"
    },
    {
@@ -96,6 +100,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":3,
+      "text": null,
       "flavor":"\"Vizier of Bullets, arise. Your will is an arrow that never misses the target.\" —Hanusa, Radiance Elemental",
       "illustrator":"Akira Hamada",
       "race":"Initiate",
@@ -111,6 +116,7 @@
       "type":"Creature",
       "cost":2,
       "text":"Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)\nWhile you have at least 1 Angel Command in the battle zone, this creature gets +2000 power.\nThis creature can't attack players.",
+      "flavor": null,
       "illustrator":"Naoki Saito",
       "race":"Light Bringer",
       "power":"2000+",
@@ -139,6 +145,7 @@
       "rarity":"Rare",
       "type":"Creature",
       "cost":5,
+      "text": null,
       "flavor":"Those who have seen this Enforcer believe that eclipses are omens of disaster.",
       "illustrator":"Hideaki Takamura",
       "race":"Berserker",
@@ -156,6 +163,8 @@
       "text":"Choose up to 2 of your creatures in the battle zone. They can't be blocked this turn.",
       "flavor":"This is light speed.",
       "illustrator":"Gyokan",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/b/b5/LaserWing.jpg/revision/latest?cb=20120421193820"
    },
    {
@@ -166,6 +175,7 @@
       "rarity":"Uncommon",
       "type":"Creature",
       "cost":4,
+      "text": null,
       "flavor":"\"Vizier of Hunting, arise. Your words are arrows of light.\" —Hanusa, Radiance Elemental",
       "illustrator":"Hisanobu Kometani",
       "race":"Initiate",
@@ -198,6 +208,8 @@
       "text":"Choose up to 2 of your opponent's creatures in the battle zone and tap them.",
       "flavor":"Cower before the purity of the Angel Commands!",
       "illustrator":"Hisanobu Kometani",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/5/54/MoonlightFlash.jpg/revision/latest?cb=20120421194950"
    },
    {
@@ -223,6 +235,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":2,
+      "text": null,
       "flavor":"Soul and light enmeshed in a web of glory.",
       "illustrator":"Soushi Hirose",
       "race":"Light Bringer",
@@ -238,6 +251,7 @@
       "type":"Creature",
       "cost":3,
       "text":"Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)\nThis creature can't attack players.\nAt the end of each of your turns, you may untap this creature.",
+      "flavor": null,
       "illustrator":"Naoki Saito",
       "race":"Starlight Tree",
       "power":"3000",
@@ -267,7 +281,10 @@
       "type":"Spell",
       "cost":2,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose 1 of your opponent's creatures in the battle zone and tap it.",
+      "flavor": null,
       "illustrator":"Jason",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/8/8f/SolarRay%28DM10%29.jpg/revision/latest?cb=20091205013955"
    },
    {
@@ -281,6 +298,8 @@
       "text":"Choose 1 of your creatures in the battle zone. It can't be blocked this turn.",
       "flavor":"\"Can't catch me!\"",
       "illustrator":"Masaki Hirooka",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/e/e5/SonicWing.jpg/revision/latest?cb=20120421182134"
    },
    {
@@ -366,6 +385,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":2,
+      "text": null,
       "flavor":"The chip implanted in its head lets the Cyber Lords control its brain waves.",
       "illustrator":"Atsushi Kawasaki",
       "race":"Liquid People",
@@ -381,7 +401,10 @@
       "type":"Spell",
       "cost":4,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDraw up to 2 cards.",
+      "flavor": null,
       "illustrator":"Dreamwave",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -408,7 +431,10 @@
       "type":"Spell",
       "cost":4,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nSearch your deck. You may take a card from your deck and put it into your hand. Then shuffle your deck.",
+      "flavor": null,
       "illustrator":"Ryoya Yuki",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -510,6 +536,7 @@
       "type":"Creature",
       "cost":3,
       "text":"Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)\nThis creature can't attack.",
+      "flavor": null,
       "illustrator":"Ittoku",
       "race":"Gel Fish",
       "power":"4000",
@@ -524,6 +551,7 @@
       "type":"Creature",
       "cost":4,
       "text":"Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)\nThis creature can't attack.",
+      "flavor": null,
       "illustrator":"Naoki Saito",
       "race":"Gel Fish",
       "power":"5000",
@@ -568,7 +596,10 @@
       "type":"Spell",
       "cost":2,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose a creature in the battle zone and return it to its owner's hand.",
+      "flavor": null,
       "illustrator":"Tomofumi Ogasawara",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -582,6 +613,8 @@
       "text":"Choose up to 2 creatures in the battle zone and return them to their owners' hands.",
       "flavor":"\"Start all over from your previous life!\" —Crystal Lancer",
       "illustrator":"Akifumi Yamamoto",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -625,6 +658,8 @@
       "text":"Choose 1 of your opponent's creatures in the battle zone and tap it.",
       "flavor":"It will stay until it dies.",
       "illustrator":"Akifumi Yamamoto",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -636,6 +671,7 @@
       "type":"Creature",
       "cost":1,
       "text":"When you put this creature into the battle zone, destroy 1 of your creatures.",
+      "flavor": null,
       "illustrator":"Soushi Hirose",
       "race":"Ghost",
       "power":"3000",
@@ -650,6 +686,7 @@
       "type":"Creature",
       "cost":2,
       "text":"Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)\nThis creature can't attack.\nWhen this creature wins a battle, destroy it.",
+      "flavor": null,
       "illustrator":"Atsushi Kawasaki",
       "race":"Brain Jacker",
       "power":"4000",
@@ -696,6 +733,8 @@
       "text":"Whenever any of your creatures becomes blocked this turn, it gets \"slayer\" until the end of the turn. (When a creature that has \"slayer\" loses a battle, destroy the other creature.)",
       "flavor":"Witness the power of the Dark!",
       "illustrator":"Ryoya Yuki",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -707,6 +746,7 @@
       "type":"Creature",
       "cost":4,
       "text":"Blocker (When an opponent's creature attacks, you may tap this creature to stop the attack. Then the two creatures battle.)\nThis creature can't attack.\nWhen this creature wins a battle, destroy it.",
+      "flavor": null,
       "illustrator":"Jason",
       "race":"Brain Jacker",
       "power":"6000",
@@ -736,7 +776,10 @@
       "type":"Spell",
       "cost":2,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nReturn a creature from your graveyard to your hand.",
+      "flavor": null,
       "illustrator":"Nottsuo",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -750,6 +793,8 @@
       "text":"Destroy one of your opponent's untapped creatures.",
       "flavor":"Savor the taste of fear!",
       "illustrator":"Dustmoss",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -761,7 +806,10 @@
       "type":"Spell",
       "cost":2,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nYour opponent discards a card at random from his hand.",
+      "flavor": null,
       "illustrator":"Soushi Hirose",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -773,6 +821,7 @@
       "type":"Creature",
       "cost":5,
       "text":"When you put this creature into the battle zone, destroy 2 of your other creatures or destroy this creature.\nDouble breaker (This creature breaks 2 shields.)",
+      "flavor": null,
       "illustrator":"Katsuya",
       "race":"Chimera",
       "power":"8000",
@@ -846,6 +895,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":4,
+      "text": null,
       "flavor":"\"Rip. Tear. Gnash. They all make the same delightful noises.\"",
       "illustrator":"Katsuya",
       "race":"Living Dead",
@@ -891,7 +941,10 @@
       "type":"Spell",
       "cost":6,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy 1 of your opponent's creatures.",
+      "flavor": null,
       "illustrator":"Yusaku Nakaaki",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -932,6 +985,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":2,
+      "text": null,
       "flavor":"Seeking power, they gave up their intelligence. What they found was pain.",
       "illustrator":"Eiji Kaneda",
       "race":"Living Dead",
@@ -1009,6 +1063,8 @@
       "text":"One of your creatures gets \"power attacker +2000\" until the end of the turn. (While attacking, a creature that has \"power attacker +2000\" gets +2000 power.)",
       "flavor":"Witness the power of whirling fire!",
       "illustrator":"Miho Midorikawa",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1022,6 +1078,8 @@
       "text":"Choose 1 of your opponent's untapped creatures in the battle zone. Your creatures can attack it this turn as though it were tapped.",
       "flavor":"\"You won't escape me!\"",
       "illustrator":"Soushi Hirose",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1035,6 +1093,8 @@
       "text":"Destroy 1 of your opponent's creatures that has power 2000 or less.",
       "flavor":"There's nothing a Machine Eater enjoys more than a good game of Whack-a-Hulcus.",
       "illustrator":"Daisuke Izuka",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1135,6 +1195,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":2,
+      "text": null,
       "flavor":"\"You see? The one who wins is the one who has the bigger weapon.\"",
       "illustrator":"Dustmoss",
       "race":"Human",
@@ -1150,7 +1211,10 @@
       "type":"Spell",
       "cost":3,
       "text":"One of your creatures gets \"power attacker +4000\" and \"double breaker\" until the end of the turn. (A creature that has \"power attacker +4000\" and \"double breaker\" gets +4000 power while attacking and breaks 2 shields.)",
+      "flavor": null,
       "illustrator":"Masaki Hirooka",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1162,6 +1226,7 @@
       "type":"Creature",
       "cost":5,
       "text":"When you put this creature into the battle zone, you may destroy 1 of your opponent's creatures that has power 2000 or less.",
+      "flavor": null,
       "illustrator":"Masateru Ikeda",
       "race":"Rock Beast",
       "power":"2000",
@@ -1251,7 +1316,10 @@
       "type":"Spell",
       "cost":5,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy 1 of your opponent's creatures that has power 4000 or less.",
+      "flavor": null,
       "illustrator":"Soushi Hirose",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1265,6 +1333,8 @@
       "text":"Each of your creatures in the battle zone gets \"power attacker +2000\" until the end of the turn. (While attacking, a creature that has \"power attacker +2000\" gets +2000 power.)",
       "flavor":"Hear the roar of the mighty Earth!",
       "illustrator":"Nottsuo",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1290,6 +1360,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":2,
+      "text": null,
       "flavor":"It pulled a young tree up by the roots, swinging it over its head as though it were a twig.",
       "illustrator":"Sansyu",
       "race":"Beast Folk",
@@ -1320,7 +1391,10 @@
       "type":"Spell",
       "cost":3,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nSearch your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.",
+      "flavor": null,
       "illustrator":"Jason",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1346,6 +1420,7 @@
       "rarity":"Common",
       "type":"Creature",
       "cost":3,
+      "text": null,
       "flavor":"The Beast Folk are gifted with huge muscles to withstand the tremendous gravity of the World Tree.",
       "illustrator":"Norikatsu Miyoshi",
       "race":"Beast Folk",
@@ -1360,6 +1435,7 @@
       "rarity":"Uncommon",
       "type":"Creature",
       "cost":4,
+      "text": null,
       "flavor":"With its deadly sting and crushing jaws, it makes the Horned Beasts cower.",
       "illustrator":"Youichi Kai",
       "race":"Giant Insect",
@@ -1405,7 +1481,10 @@
       "type":"Spell",
       "cost":6,
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose 1 of your opponent's creatures in the battle zone and put it into his mana zone.",
+      "flavor": null,
       "illustrator":"Sansyu",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1419,6 +1498,8 @@
       "text":"Put 1 of your creatures from the battle zone into your mana zone.",
       "flavor":"\"Here's something better for you to do.\" —Fighter Dual Fang",
       "illustrator":"Seki",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
@@ -1566,6 +1647,8 @@
       "text":"Put the top 2 cards of your deck into your mana zone.",
       "flavor":"\"Great Earth, give me your might!\" —Fighter Dual Fang",
       "illustrator":"Sansyu",
+      "race": null,
+      "power": null,
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/44/Dianorkmoonlightguardian.jpg/revision/latest?cb=20130401232224"
    },
    {
