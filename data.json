@@ -1654,7 +1654,7 @@
    {
       "name":"Hanusa, Radiance Elemental",
       "set":"DM-01 Base Set",
-      "id":"S1/110",
+      "id":"S1/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1669,7 +1669,7 @@
    {
       "name":"Urth, Purifying Elemental",
       "set":"DM-01 Base Set",
-      "id":"S2/110",
+      "id":"S2/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1684,7 +1684,7 @@
    {
       "name":"Aqua Sniper",
       "set":"DM-01 Base Set",
-      "id":"S3/110",
+      "id":"S3/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1699,7 +1699,7 @@
    {
       "name":"King Depthcon",
       "set":"DM-01 Base Set",
-      "id":"S4/110",
+      "id":"S4/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1714,7 +1714,7 @@
    {
       "name":"Deathliger, Lion of Chaos",
       "set":"DM-01 Base Set",
-      "id":"S5/110",
+      "id":"S5/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1729,7 +1729,7 @@
    {
       "name":"Zagaan, Knight of Darkness",
       "set":"DM-01 Base Set",
-      "id":"S6/110",
+      "id":"S6/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1744,7 +1744,7 @@
    {
       "name":"Astrocomet Dragon",
       "set":"DM-01 Base Set",
-      "id":"S7/110",
+      "id":"S7/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1759,7 +1759,7 @@
    {
       "name":"Scarlet Skyterror",
       "set":"DM-01 Base Set",
-      "id":"S8/110",
+      "id":"S8/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1774,7 +1774,7 @@
    {
       "name":"Deathblade Beetle",
       "set":"DM-01 Base Set",
-      "id":"S9/110",
+      "id":"S9/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
@@ -1789,7 +1789,7 @@
    {
       "name":"Roaring Great-Horn",
       "set":"DM-01 Base Set",
-      "id":"S10/110",
+      "id":"S10/S10",
       "civilization":"Special",
       "rarity":"Super Rare",
       "type":"Creature",
