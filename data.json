@@ -88,8 +88,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nTap all your opponent's creatures in the battle zone.",
       "flavor": "",
       "illustrator":"Naoki Saito",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/c/cb/HolyAwe.jpg/revision/latest?cb=20120221011434"
    },
    {
@@ -163,8 +163,8 @@
       "text":"Choose up to 2 of your creatures in the battle zone. They can't be blocked this turn.",
       "flavor":"This is light speed.",
       "illustrator":"Gyokan",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/b/b5/LaserWing.jpg/revision/latest?cb=20120421193820"
    },
    {
@@ -208,8 +208,8 @@
       "text":"Choose up to 2 of your opponent's creatures in the battle zone and tap them.",
       "flavor":"Cower before the purity of the Angel Commands!",
       "illustrator":"Hisanobu Kometani",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/5/54/MoonlightFlash.jpg/revision/latest?cb=20120421194950"
    },
    {
@@ -283,8 +283,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose 1 of your opponent's creatures in the battle zone and tap it.",
       "flavor": "",
       "illustrator":"Jason",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/8/8f/SolarRay%28DM10%29.jpg/revision/latest?cb=20091205013955"
    },
    {
@@ -298,8 +298,8 @@
       "text":"Choose 1 of your creatures in the battle zone. It can't be blocked this turn.",
       "flavor":"\"Can't catch me!\"",
       "illustrator":"Masaki Hirooka",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/e/e5/SonicWing.jpg/revision/latest?cb=20120421182134"
    },
    {
@@ -403,8 +403,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDraw up to 2 cards.",
       "flavor": "",
       "illustrator":"Dreamwave",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/8/83/BrainSerum.jpg/revision/latest?cb=20120420132515"
    },
    {
@@ -433,8 +433,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nSearch your deck. You may take a card from your deck and put it into your hand. Then shuffle your deck.",
       "flavor": "",
       "illustrator":"Ryoya Yuki",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/6/62/CrystalMemory.jpg/revision/latest?cb=20130401231824"
    },
    {
@@ -598,8 +598,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose a creature in the battle zone and return it to its owner's hand.",
       "flavor": "",
       "illustrator":"Tomofumi Ogasawara",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/8/87/SpiralGate%28DM10%29.jpg/revision/latest?cb=20091205012554"
    },
    {
@@ -613,8 +613,8 @@
       "text":"Choose up to 2 creatures in the battle zone and return them to their owners' hands.",
       "flavor":"\"Start all over from your previous life!\" —Crystal Lancer",
       "illustrator":"Akifumi Yamamoto",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/0/06/Teleportation.jpg/revision/latest?cb=20130401231711"
    },
    {
@@ -658,8 +658,8 @@
       "text":"Choose 1 of your opponent's creatures in the battle zone and tap it.",
       "flavor":"It will stay until it dies.",
       "illustrator":"Akifumi Yamamoto",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/b/b2/VirtualTripwire.jpg/revision/latest?cb=20120419133421"
    },
    {
@@ -733,8 +733,8 @@
       "text":"Whenever any of your creatures becomes blocked this turn, it gets \"slayer\" until the end of the turn. (When a creature that has \"slayer\" loses a battle, destroy the other creature.)",
       "flavor":"Witness the power of the Dark!",
       "illustrator":"Ryoya Yuki",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/d/d0/CreepingPlague.jpg/revision/latest?cb=20130119152146"
    },
    {
@@ -778,8 +778,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nReturn a creature from your graveyard to your hand.",
       "flavor": "",
       "illustrator":"Nottsuo",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/4/4f/DarkReversal.jpg/revision/latest?cb=20130813152349"
    },
    {
@@ -793,8 +793,8 @@
       "text":"Destroy one of your opponent's untapped creatures.",
       "flavor":"Savor the taste of fear!",
       "illustrator":"Dustmoss",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/c/c5/Death_Smoke.jpg/revision/latest?cb=20190710123914"
    },
    {
@@ -808,8 +808,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nYour opponent discards a card at random from his hand.",
       "flavor": "",
       "illustrator":"Soushi Hirose",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/3/39/GhostTouch.jpg/revision/latest?cb=20130128181409"
    },
    {
@@ -943,8 +943,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy 1 of your opponent's creatures.",
       "flavor": "",
       "illustrator":"Yusaku Nakaaki",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/c/c4/TerrorPit.jpg/revision/latest?cb=20110414090640"
    },
    {
@@ -1063,8 +1063,8 @@
       "text":"One of your creatures gets \"power attacker +2000\" until the end of the turn. (While attacking, a creature that has \"power attacker +2000\" gets +2000 power.)",
       "flavor":"Witness the power of whirling fire!",
       "illustrator":"Miho Midorikawa",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/5/5c/BurningPower.jpg/revision/latest?cb=20190709205146"
    },
    {
@@ -1078,8 +1078,8 @@
       "text":"Choose 1 of your opponent's untapped creatures in the battle zone. Your creatures can attack it this turn as though it were tapped.",
       "flavor":"\"You won't escape me!\"",
       "illustrator":"Soushi Hirose",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/8/8a/ChaosStrike.jpg/revision/latest?cb=20130115202941"
    },
    {
@@ -1093,8 +1093,8 @@
       "text":"Destroy 1 of your opponent's creatures that has power 2000 or less.",
       "flavor":"There's nothing a Machine Eater enjoys more than a good game of Whack-a-Hulcus.",
       "illustrator":"Daisuke Izuka",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/f/f5/CrimsonHammer.jpg/revision/latest?cb=20200218031501"
    },
    {
@@ -1213,8 +1213,8 @@
       "text":"One of your creatures gets \"power attacker +4000\" and \"double breaker\" until the end of the turn. (A creature that has \"power attacker +4000\" and \"double breaker\" gets +4000 power while attacking and breaks 2 shields.)",
       "flavor": "",
       "illustrator":"Masaki Hirooka",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/2/24/MagmaGazer.jpg/revision/latest?cb=20151127050950"
    },
    {
@@ -1318,8 +1318,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nDestroy 1 of your opponent's creatures that has power 4000 or less.",
       "flavor": "",
       "illustrator":"Soushi Hirose",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/7/7a/Tornado_Flame.jpg/revision/latest?cb=20190710124027"
    },
    {
@@ -1333,8 +1333,8 @@
       "text":"Each of your creatures in the battle zone gets \"power attacker +2000\" until the end of the turn. (While attacking, a creature that has \"power attacker +2000\" gets +2000 power.)",
       "flavor":"Hear the roar of the mighty Earth!",
       "illustrator":"Nottsuo",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/9/90/AuraBlast.jpg/revision/latest?cb=20130115203956"
    },
    {
@@ -1393,8 +1393,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nSearch your deck. You may take a creature from your deck, show that creature to your opponent, and put it into your hand. Then shuffle your deck.",
       "flavor": "",
       "illustrator":"Jason",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/1/16/DimensionGate.jpg/revision/latest?cb=20140507072910"
    },
    {
@@ -1483,8 +1483,8 @@
       "text":"Shield trigger (When this spell is put into your hand from your shield zone, you may cast it immediately for no cost.)\nChoose 1 of your opponent's creatures in the battle zone and put it into his mana zone.",
       "flavor": "",
       "illustrator":"Sansyu",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/e/ef/NaturalSnare.jpg/revision/latest?cb=20200301112702"
    },
    {
@@ -1498,8 +1498,8 @@
       "text":"Put 1 of your creatures from the battle zone into your mana zone.",
       "flavor":"\"Here's something better for you to do.\" —Fighter Dual Fang",
       "illustrator":"Seki",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/8/85/PangaesSong.jpg/revision/latest?cb=20120221013655"
    },
    {
@@ -1630,6 +1630,7 @@
       "rarity":"Rare",
       "type":"Creature",
       "cost":5,
+      "text": "No text in this card",
       "flavor":"Sometimes weeks pass before it realizes it has a gored enemy stuck to its horns.",
       "illustrator":"Daisuke Izuka",
       "race":"Horned Beast",
@@ -1647,8 +1648,8 @@
       "text":"Put the top 2 cards of your deck into your mana zone.",
       "flavor":"\"Great Earth, give me your might!\" —Fighter Dual Fang",
       "illustrator":"Sansyu",
-      "race": "no race",
-      "power": "",
+      "race": "No race",
+      "power": "No power",
       "picture":"https://vignette.wikia.nocookie.net/duelmasters/images/8/8d/UltimateForce.jpg/revision/latest?cb=20130401224622"
    },
    {
